@@ -1,0 +1,32 @@
+.social__item{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.social__item:last-child{
+    margin-right: 0;
+}
+
+.social__link{
+    display: block;
+    width: 36px;
+    height: 36px;
+    background: center center no-repeat;
+}
+
+.social__link--theme-tg{
+    background-image: url(/img/icons/social/telegram.png);
+}
+
+.social__link--theme-vk{
+    background-image: url(/img/icons/social/vk.png);
+}
+
+.social__link--theme-fb{
+    background-image: url(/img/icons/social/f.png);
+}
+
+.social__link--theme-inst{
+    background-image: url(/img/icons/social/in.png);
+}

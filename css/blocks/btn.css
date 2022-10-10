@@ -1,0 +1,19 @@
+.btn {
+    background: #FF3D00;
+    border-radius: 35px;
+    padding: 18px 53px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+
+
+}
+
+.btn--theme-light{
+    background: #fff;
+    color: #FF5500;
+    border: 2px solid #FF5500;
+    padding: 16px 53px;
+}

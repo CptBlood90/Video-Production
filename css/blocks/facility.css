@@ -1,0 +1,47 @@
+.facilitys{
+    margin-bottom: 65px;
+}
+
+.facilitys__item{
+    margin-bottom: 48px;
+}
+
+.facilitys__item:last-child{
+    margin: 0;
+}
+
+.facility{
+    display: flex;
+    text-decoration: none;
+}
+
+.facility:hover{
+    background: #fff;
+}
+
+.facility:hover .facility__btn{
+    background:#FF3D00;
+    color: #fff;
+}
+
+.facility__img{
+    width: 41%;
+    margin-right: 4.2%;
+}
+
+.facility__content{
+    flex: 1;
+    padding-top: 10px;
+}
+
+.facility__title{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 29px;
+    color: #000;
+}
+
+.facility__desc{
+    line-height: 1.7;
+    margin-bottom: 34px;
+}

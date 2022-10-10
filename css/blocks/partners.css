@@ -1,0 +1,19 @@
+.partners{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -74px;
+    row-gap: 19px;
+}
+
+.partners__item{
+    margin-left: 51px;
+}
+
+.partners__link{
+    text-decoration: none;
+    display: flex;
+    width: 250px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
