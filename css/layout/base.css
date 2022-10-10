@@ -52,8 +52,8 @@ img {
     position: relative;
 }
 .wrapper--theme-main {
-    background: url(/img/icons/backtop.png) center top / 100% no-repeat,
-        url(img/icons/backbottom.png) center bottom / 100% no-repeat;
+    background: url(../../img/icons/backtop.png) center top / 100% no-repeat,
+        url(../../img/icons/backbottom.png) center bottom / 100% no-repeat;
 }
 
 .page-content--main{
