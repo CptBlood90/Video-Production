@@ -8,7 +8,7 @@
     vertical-align: top;
     width: 490px;
     height: 505px;
-    background: url(img/icons/cameraman.png) center center / cover no-repeat;
+    background: url(/img/icons/cameraman.png) center center / cover no-repeat;
     position: absolute;
     top: 0;
 }
