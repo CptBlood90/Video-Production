@@ -16,17 +16,17 @@
 }
 
 .social__link--theme-tg{
-    background-image: url(/img/icons/social/telegram.png);
+    background-image: url(../../img/icons/social/telegram.png);
 }
 
 .social__link--theme-vk{
-    background-image: url(/img/icons/social/vk.png);
+    background-image: url(../../img/icons/social/vk.png);
 }
 
 .social__link--theme-fb{
-    background-image: url(/img/icons/social/f.png);
+    background-image: url(../../img/icons/social/f.png);
 }
 
 .social__link--theme-inst{
-    background-image: url(/img/icons/social/in.png);
+    background-image: url(../../img/icons/social/in.png);
 }
