@@ -17,11 +17,13 @@
 
 .facility:hover{
     background: #fff;
+    transition: 0.5s;
 }
 
 .facility:hover .facility__btn{
     background:#FF3D00;
     color: #fff;
+    transition: 0.5s;
 }
 
 .facility__img{

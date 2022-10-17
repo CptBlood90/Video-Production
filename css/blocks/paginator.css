@@ -17,6 +17,7 @@
 .paginator--theme--dark .paginator__link:hover{
     color: #000;
     background: #FF5300;
+    transition: .5s;
 }
 
 .paginator--theme--facilitys{

@@ -1,0 +1,22 @@
+.promo{
+    background: #373737 url(../../img/reviews/party.png) right 0% bottom no-repeat;
+    min-height: 362px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.promo__content{
+    max-width: 49%;
+}
+
+.promo__title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1.1;
+}
+
+.promo__title-special{
+    color: #FF5400;
+}

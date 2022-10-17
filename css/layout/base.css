@@ -53,11 +53,17 @@ img {
 }
 .wrapper--theme-main {
     background: url(../../img/icons/backtop.png) center top / 100% no-repeat,
-        url(../../img/icons/backbottom.png) center bottom / 100% no-repeat;
+        url(../..img/icons/backbottom.png) center bottom / 100% no-repeat;
 }
 
 .page-content--main{
     margin-bottom: 53px;
+}
+
+button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
 }
 
 

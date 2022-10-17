@@ -17,3 +17,25 @@
     border: 2px solid #FF5500;
     padding: 16px 53px;
 }
+
+.btn--color-grey{
+    background: #8E8E8E;
+}
+
+.btn--color-grey:hover{
+    background: #FF5500;
+    transition: 0.5s;
+}
+
+.form__btns{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.form__btn{
+    margin-right: 13px;
+}
+
+.form__btn:last-child{
+    margin-right: 0;
+}
