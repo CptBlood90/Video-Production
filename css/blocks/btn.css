@@ -1,14 +1,18 @@
 .btn {
-    background: #FF3D00;
+    background: #FF5500;
     border-radius: 35px;
     padding: 18px 53px;
     color: #fff;
     font-weight: bold;
     font-size: 14px;
+    text-transform: uppercase;
     text-decoration: none;
     display: inline-block;
+    transition: background-color .3s, color .3s, border-color .3s;
+}
 
-
+.btn:hover{
+    background: #FF3D00;
 }
 
 .btn--theme-light{
@@ -18,13 +22,16 @@
     padding: 16px 53px;
 }
 
+.btn--theme-light:hover{
+   color: #fff;
+}
+
 .btn--color-grey{
     background: #8E8E8E;
 }
 
 .btn--color-grey:hover{
     background: #FF5500;
-    transition: 0.5s;
 }
 
 .form__btns{
